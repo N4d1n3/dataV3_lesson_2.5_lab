@@ -1,3 +1,5 @@
+-- 2.5 at top, lab 2.6 below
+
 use sakila;
 
 -- 1
